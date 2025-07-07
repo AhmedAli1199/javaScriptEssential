@@ -22,6 +22,17 @@
                     // Multiply the numbers
                     return a * b;
                 }
+
+                function division(a, b){
+                    //Divides a by b
+                    debugger;
+                    return a / b;
+                }
+
+                function addition(a,b) {
+                    debugger;
+                    return a+b;
+                }
     
                 function displayResult(result) {
                     // Display the result in the paragraph element
